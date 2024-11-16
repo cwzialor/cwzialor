@@ -1,4 +1,4 @@
-👋 Hi, I’m @CasparZialor
+👋 Hi, I’m @cwialor
 👀 I'm interested in UX Research.
 🌱 I’m currently researching UX in China.
 💞️ I’m looking to collaborate in digital product design.
