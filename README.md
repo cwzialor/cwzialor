@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
-Hello! I'm Caspar Zialor. 
+Hello! I'm Caspar. 
 <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
 </h1>
 <p align="center">
