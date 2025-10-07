@@ -4,7 +4,7 @@ Hello! I'm Caspar.
 <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
 </h1>
 <p align="center">
-Graduate researcher with a Project Management background. I’m a systematic planner, a careful analyzer, and a feasible idea generator. I also love to give presentations!
+Graduate researcher with a Project Management background. <br> I’m a systematic planner, a careful analyzer, and a feasible idea generator. I also love to give presentations!
 </p>
 <div float="left" align="center">
     <img src="https://ia802901.us.archive.org/26/items/SSCXT2000/screenshot_15.png" width="50%"/>
