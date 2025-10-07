@@ -1,12 +1,32 @@
-👋 Hi, I’m @cwialor
-👀 I'm interested in UX Research.
-🌱 I’m currently researching UX in China.
-💞️ I’m looking to collaborate in digital product design.
-📫 Reach me on https://www.linkedin.com/m/profile/in/casparzialor/
-⚡ Fun fact: I’m studying a Masters' at Shanghai Jiao Tong Univeristy, Shanghai.
 
-<!---
-cwzialor/cwzialor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<iframe src="https://archive.org/embed/SSCXT2000" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<h1 align="center">
+<img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
+Hello! I'm Caspar Zialor. 
+<img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">
+</h1>
+
+<p align="center">
+Graduate researcher with a Project Management background. I’m a systematic planner, a careful analyzer, and a feasible idea generator. I also love to give presentations!
+</p>
+<br>
+<div float="left" align="center">
+    <img src="https://ia802901.us.archive.org/26/items/SSCXT2000/screenshot_15.png" width="50%"/>
+  <div>
+     <kbd>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ UX Research ■ Project Management ■ Audio Visual Design ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br> <br>
+     </kbd>
+  <div>
+    <br>
+</div>
+
+
+  <p align="center">
+  ▮ Promoting evidenced based design in open source▮
+  </p>
+        <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
+
+  <p align="center">
+    𝕿𝖍𝖊 𝖒𝖊𝖉𝖎𝖚𝖒 𝖎𝖘 𝖙𝖍𝖊 𝖒𝖊𝖘𝖘𝖆𝖌𝖊
+  </p>
