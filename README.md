@@ -8,10 +8,7 @@ Graduate researcher with a Project Management background. <br> A systematic plan
 </h4>
 <div float="left" align="center">
     <img src="https://ia802901.us.archive.org/26/items/SSCXT2000/screenshot_15.png" width="50%"/>
-
-<iframe src="https://archive.org/embed/win95_in_dosbox" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-    
-  <div>
+    <div>
      <kbd>
        <br>
        &nbsp; &nbsp;  &nbsp; &nbsp; ■ UX Research ■ Project Management ■ Audio Visual Design ■  &nbsp; &nbsp;  &nbsp; &nbsp;
